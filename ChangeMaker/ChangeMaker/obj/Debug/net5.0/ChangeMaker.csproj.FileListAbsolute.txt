@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\bin\Debug\net5.0\ChangeMaker.exe
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\bin\Debug\net5.0\ChangeMaker.deps.json
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\bin\Debug\net5.0\ChangeMaker.runtimeconfig.json
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\bin\Debug\net5.0\ChangeMaker.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\bin\Debug\net5.0\ChangeMaker.dll
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\bin\Debug\net5.0\ref\ChangeMaker.dll
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\bin\Debug\net5.0\ChangeMaker.pdb
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\obj\Debug\net5.0\ChangeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\obj\Debug\net5.0\ChangeMaker.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\obj\Debug\net5.0\ChangeMaker.AssemblyInfo.cs
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\obj\Debug\net5.0\ChangeMaker.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\obj\Debug\net5.0\ChangeMaker.dll
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\obj\Debug\net5.0\ref\ChangeMaker.dll
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\obj\Debug\net5.0\ChangeMaker.pdb
+C:\Users\danie\source\repos\ChangeMaker\ChangeMaker\obj\Debug\net5.0\ChangeMaker.genruntimeconfig.cache
